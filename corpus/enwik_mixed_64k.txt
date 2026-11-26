@@ -1,0 +1,1591 @@
+<!-- entry:1 sha:5dc3552d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":1,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r1">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 1-20.</ref>
+
+<!-- entry:2 sha:dfbd2cb1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":2,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r2">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 2-21.</ref>
+
+<!-- entry:3 sha:711c5a75 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":3,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r3">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 3-22.</ref>
+
+<!-- entry:4 sha:2ff52279 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":4,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r4">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 4-23.</ref>
+
+<!-- entry:5 sha:931e08bd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":5,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r5">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 5-24.</ref>
+
+<!-- entry:6 sha:df33d141 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":6,"rank":72,"ring":"Q"}
+```
+* Ref: <ref name="r6">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 6-25.</ref>
+
+<!-- entry:7 sha:09dd8005 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":7,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r7">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 7-26.</ref>
+
+<!-- entry:8 sha:cf505909 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":8,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r8">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 8-27.</ref>
+
+<!-- entry:9 sha:fe13e04d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":9,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r9">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 9-28.</ref>
+
+<!-- entry:10 sha:3d05d9d1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":10,"rank":72,"ring":"Q"}
+```
+* Ref: <ref name="r10">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 10-29.</ref>
+
+<!-- entry:11 sha:cf9e4995 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":11,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r11">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 11-30.</ref>
+
+<!-- entry:12 sha:1c737399 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":12,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r12">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 12-31.</ref>
+
+<!-- entry:13 sha:f9fddbdd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":13,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r13">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 13-32.</ref>
+
+<!-- entry:14 sha:059c4661 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":14,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r14">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 14-33.</ref>
+
+<!-- entry:15 sha:88d7b725 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":15,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r15">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 15-34.</ref>
+
+<!-- entry:16 sha:b0e77229 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":16,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r16">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 16-35.</ref>
+
+<!-- entry:17 sha:1c74fb6d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":17,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r17">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 17-36.</ref>
+
+<!-- entry:18 sha:03a016f1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":18,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r18">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 18-37.</ref>
+
+<!-- entry:19 sha:7e42c8b5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":19,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r19">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 19-38.</ref>
+
+<!-- entry:20 sha:ac7554b9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":20,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r20">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 20-39.</ref>
+
+<!-- entry:21 sha:c5523efd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":21,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r21">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 21-40.</ref>
+
+<!-- entry:22 sha:4ffa4b81 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":22,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r22">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 22-41.</ref>
+
+<!-- entry:23 sha:0ad87e45 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":23,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r23">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 23-42.</ref>
+
+<!-- entry:24 sha:45261b49 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":24,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r24">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 24-43.</ref>
+
+<!-- entry:25 sha:aeaea68d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":25,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r25">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 25-44.</ref>
+
+<!-- entry:26 sha:e1d3e411 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":26,"rank":72,"ring":"Q"}
+```
+* Ref: <ref name="r26">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 26-45.</ref>
+
+<!-- entry:27 sha:2bd1d7d5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":27,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r27">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 27-46.</ref>
+
+<!-- entry:28 sha:5742c5d9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":28,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r28">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 28-47.</ref>
+
+<!-- entry:29 sha:7ce3321d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":29,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r29">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 29-48.</ref>
+
+<!-- entry:30 sha:1e95e0a1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":30,"rank":72,"ring":"Q"}
+```
+* Ref: <ref name="r30">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 30-49.</ref>
+
+<!-- entry:31 sha:10a7d565 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":31,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r31">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 31-50.</ref>
+
+<!-- entry:32 sha:f5545469 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":32,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r32">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 32-51.</ref>
+
+<!-- entry:33 sha:4e88e1ad -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":33,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r33">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 33-52.</ref>
+
+<!-- entry:34 sha:69e94131 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":34,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r34">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 34-53.</ref>
+
+<!-- entry:35 sha:ab1376f5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":35,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r35">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 35-54.</ref>
+
+<!-- entry:36 sha:f823c6f9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":36,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r36">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 36-55.</ref>
+
+<!-- entry:37 sha:4c78b53d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":37,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r37">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 37-56.</ref>
+
+<!-- entry:38 sha:b5b705c1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":38,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r38">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 38-57.</ref>
+
+<!-- entry:39 sha:3f0dbc85 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":39,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r39">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 39-58.</ref>
+
+<!-- entry:40 sha:8eba1d89 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":40,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r40">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 40-59.</ref>
+
+<!-- entry:41 sha:39cbaccd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":41,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r41">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 41-60.</ref>
+
+<!-- entry:42 sha:12282e51 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":42,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r42">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 42-61.</ref>
+
+<!-- entry:43 sha:f2cfa615 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":43,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r43">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 43-62.</ref>
+
+<!-- entry:44 sha:ce605819 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":44,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r44">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 44-63.</ref>
+
+<!-- entry:45 sha:03dac85d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":45,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r45">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 45-64.</ref>
+
+<!-- entry:46 sha:3da5bae1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":46,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r46">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 46-65.</ref>
+
+<!-- entry:47 sha:5ed233a5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":47,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r47">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 47-66.</ref>
+
+<!-- entry:48 sha:429f76a9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":48,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r48">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 48-67.</ref>
+
+<!-- entry:49 sha:523f07ed -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":49,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r49">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 49-68.</ref>
+
+<!-- entry:50 sha:34d8ab71 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":50,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r50">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 50-69.</ref>
+
+<!-- entry:51 sha:1dce6535 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":51,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r51">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 51-70.</ref>
+
+<!-- entry:52 sha:7d407939 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":52,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r52">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 52-71.</ref>
+
+<!-- entry:53 sha:16d16b7d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":53,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r53">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 53-72.</ref>
+
+<!-- entry:54 sha:c2aa0001 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":54,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r54">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 54-73.</ref>
+
+<!-- entry:55 sha:5cbd3ac5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":55,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r55">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 55-74.</ref>
+
+<!-- entry:56 sha:a64c5fc9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":56,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r56">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 56-75.</ref>
+
+<!-- entry:57 sha:1daaf30d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":57,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r57">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 57-76.</ref>
+
+<!-- entry:58 sha:1042b891 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":58,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r58">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 58-77.</ref>
+
+<!-- entry:59 sha:6ad7b455 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":59,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r59">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 59-78.</ref>
+
+<!-- entry:60 sha:0c0c2a59 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":60,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r60">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 60-79.</ref>
+
+<!-- entry:61 sha:9d249e9d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":61,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r61">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 61-80.</ref>
+
+<!-- entry:62 sha:350bd521 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":62,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r62">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 62-81.</ref>
+
+<!-- entry:63 sha:4996d1e5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":63,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r63">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 63-82.</ref>
+
+<!-- entry:64 sha:b308d8e9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":64,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r64">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 64-83.</ref>
+
+<!-- entry:65 sha:c5d76e2d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":65,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r65">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 65-84.</ref>
+
+<!-- entry:66 sha:c6ae55b1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":66,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r66">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 66-85.</ref>
+
+<!-- entry:67 sha:3cb39375 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":67,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r67">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 67-86.</ref>
+
+<!-- entry:68 sha:e60b6b79 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":68,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r68">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 68-87.</ref>
+
+<!-- entry:69 sha:529c61bd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":69,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r69">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 69-88.</ref>
+
+<!-- entry:70 sha:69133a41 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":70,"rank":72,"ring":"Q"}
+```
+* Ref: <ref name="r70">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 70-89.</ref>
+
+<!-- entry:71 sha:5a26f905 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":71,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r71">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 71-90.</ref>
+
+<!-- entry:72 sha:c61ce209 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":72,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r72">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 72-91.</ref>
+
+<!-- entry:73 sha:188c794d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":73,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r73">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 73-92.</ref>
+
+<!-- entry:74 sha:5e6382d1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":74,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r74">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 74-93.</ref>
+
+<!-- entry:75 sha:1a2a0295 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":75,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r75">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 75-94.</ref>
+
+<!-- entry:76 sha:da863c99 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":76,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r76">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 76-95.</ref>
+
+<!-- entry:77 sha:9700b4dd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":77,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r77">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 77-96.</ref>
+
+<!-- entry:78 sha:17082f61 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":78,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r78">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 78-97.</ref>
+
+<!-- entry:79 sha:e735b025 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":79,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r79">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 79-98.</ref>
+
+<!-- entry:80 sha:a0d07b29 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":80,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r80">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 80-99.</ref>
+
+<!-- entry:81 sha:8792146d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":81,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r81">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 81-100.</ref>
+
+<!-- entry:82 sha:c1aa3ff1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":82,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r82">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 82-101.</ref>
+
+<!-- entry:83 sha:ae0301b5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":83,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r83">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 83-102.</ref>
+
+<!-- entry:84 sha:1cc49db9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":84,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r84">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 84-103.</ref>
+
+<!-- entry:85 sha:6e1997fd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":85,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r85">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 85-104.</ref>
+
+<!-- entry:86 sha:db32b481 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":86,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r86">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 86-105.</ref>
+
+<!-- entry:87 sha:6d8af745 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":87,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r87">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 87-106.</ref>
+
+<!-- entry:88 sha:686ba449 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":88,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r88">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 88-107.</ref>
+
+<!-- entry:89 sha:28b03f8d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":89,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r89">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 89-108.</ref>
+
+<!-- entry:90 sha:beca8d11 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":90,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r90">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 90-109.</ref>
+
+<!-- entry:91 sha:c70690d5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":91,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r91">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 91-110.</ref>
+
+<!-- entry:92 sha:440e8ed9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":92,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r92">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 92-111.</ref>
+
+<!-- entry:93 sha:7faf0b1d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":93,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r93">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 93-112.</ref>
+
+<!-- entry:94 sha:35dac9a1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":94,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r94">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 94-113.</ref>
+
+<!-- entry:95 sha:8deece65 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":95,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r95">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 95-114.</ref>
+
+<!-- entry:96 sha:a6365d69 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":96,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r96">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 96-115.</ref>
+
+<!-- entry:97 sha:b5aefaad -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":97,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r97">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 97-116.</ref>
+
+<!-- entry:98 sha:080c6a31 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":98,"rank":24,"ring":"Q"}
+```
+* Ref: <ref name="r98">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 98-117.</ref>
+
+<!-- entry:99 sha:57fcaff5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":99,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r99">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 99-118.</ref>
+
+<!-- entry:100 sha:4bac0ff9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":100,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r100">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 100-119.</ref>
+
+<!-- entry:101 sha:17890e3d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":101,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r101">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 101-120.</ref>
+
+<!-- entry:102 sha:8b486ec1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":102,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r102">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 102-121.</ref>
+
+<!-- entry:103 sha:0d293585 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":103,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r103">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 103-122.</ref>
+
+<!-- entry:104 sha:4778a689 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":104,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r104">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 104-123.</ref>
+
+<!-- entry:105 sha:8c5645cd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":105,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r105">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 105-124.</ref>
+
+<!-- entry:106 sha:33b7d751 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":106,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r106">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 106-125.</ref>
+
+<!-- entry:107 sha:77ad5f15 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":107,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r107">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 107-126.</ref>
+
+<!-- entry:108 sha:92e52119 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":108,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r108">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 108-127.</ref>
+
+<!-- entry:109 sha:256fa15d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":109,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r109">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 109-128.</ref>
+
+<!-- entry:110 sha:23c3a3e1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":110,"rank":24,"ring":"Q"}
+```
+* Ref: <ref name="r110">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 110-129.</ref>
+
+<!-- entry:111 sha:d4022ca5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":111,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r111">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 111-130.</ref>
+
+<!-- entry:112 sha:9d7a7fa9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":112,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r112">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 112-131.</ref>
+
+<!-- entry:113 sha:ae6e20ed -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":113,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r113">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 113-132.</ref>
+
+<!-- entry:114 sha:bc14d471 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":114,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r114">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 114-133.</ref>
+
+<!-- entry:115 sha:60e09e35 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":115,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r115">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 115-134.</ref>
+
+<!-- entry:116 sha:dd01c239 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":116,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r116">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 116-135.</ref>
+
+<!-- entry:117 sha:3d2ac47d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":117,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r117">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 117-136.</ref>
+
+<!-- entry:118 sha:2b946901 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":118,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r118">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 118-137.</ref>
+
+<!-- entry:119 sha:ef41b3c5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":119,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r119">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 119-138.</ref>
+
+<!-- entry:120 sha:5d83e8c9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":120,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r120">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 120-139.</ref>
+
+<!-- entry:121 sha:c1be8c0d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":121,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r121">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 121-140.</ref>
+
+<!-- entry:122 sha:ff6b6191 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":122,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r122">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 122-141.</ref>
+
+<!-- entry:123 sha:725e6d55 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":123,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r123">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 123-142.</ref>
+
+<!-- entry:124 sha:5149f359 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":124,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r124">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 124-143.</ref>
+
+<!-- entry:125 sha:9682779d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":125,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r125">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 125-144.</ref>
+
+<!-- entry:126 sha:b302be21 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":126,"rank":24,"ring":"Q"}
+```
+* Ref: <ref name="r126">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 126-145.</ref>
+
+<!-- entry:127 sha:8fafcae5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":127,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r127">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 127-146.</ref>
+
+<!-- entry:128 sha:a0dce1e9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":128,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r128">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 128-147.</ref>
+
+<!-- entry:129 sha:100f872d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":129,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r129">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 129-148.</ref>
+
+<!-- entry:130 sha:40037eb1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":130,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r130">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 130-149.</ref>
+
+<!-- entry:131 sha:2eeecc75 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":131,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r131">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 131-150.</ref>
+
+<!-- entry:132 sha:7b05b479 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":132,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r132">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 132-151.</ref>
+
+<!-- entry:133 sha:0d3ebabd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":133,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r133">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 133-152.</ref>
+
+<!-- entry:134 sha:ae56a341 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":134,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r134">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 134-153.</ref>
+
+<!-- entry:135 sha:0a147205 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":135,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r135">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 135-154.</ref>
+
+<!-- entry:136 sha:e4cd6b09 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":136,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r136">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 136-155.</ref>
+
+<!-- entry:137 sha:8729124d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":137,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r137">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 137-156.</ref>
+
+<!-- entry:138 sha:a4252bd1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":138,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r138">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 138-157.</ref>
+
+<!-- entry:139 sha:3d59bb95 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":139,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r139">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 139-158.</ref>
+
+<!-- entry:140 sha:497d0599 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":140,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r140">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 140-159.</ref>
+
+<!-- entry:141 sha:21278ddd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":141,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r141">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 141-160.</ref>
+
+<!-- entry:142 sha:f5d81861 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":142,"rank":24,"ring":"Q"}
+```
+* Ref: <ref name="r142">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 142-161.</ref>
+
+<!-- entry:143 sha:d737a925 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":143,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r143">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 143-162.</ref>
+
+<!-- entry:144 sha:0a9d8429 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":144,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r144">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 144-163.</ref>
+
+<!-- entry:145 sha:b8d32d6d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":145,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r145">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 145-164.</ref>
+
+<!-- entry:146 sha:361868f1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":146,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r146">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 146-165.</ref>
+
+<!-- entry:147 sha:68673ab5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":147,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r147">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 147-166.</ref>
+
+<!-- entry:148 sha:0ff7e6b9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":148,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r148">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 148-167.</ref>
+
+<!-- entry:149 sha:f604f0fd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":149,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r149">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 149-168.</ref>
+
+<!-- entry:150 sha:45cf1d81 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":150,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r150">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 150-169.</ref>
+
+<!-- entry:151 sha:93e17045 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":151,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r151">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 151-170.</ref>
+
+<!-- entry:152 sha:57952d49 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":152,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r152">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 152-171.</ref>
+
+<!-- entry:153 sha:dad5d88d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":153,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r153">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 153-172.</ref>
+
+<!-- entry:154 sha:e4253611 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":154,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r154">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 154-173.</ref>
+
+<!-- entry:155 sha:9edf49d5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":155,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r155">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 155-174.</ref>
+
+<!-- entry:156 sha:85be57d9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":156,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r156">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 156-175.</ref>
+
+<!-- entry:157 sha:539ee41d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":157,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r157">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 157-176.</ref>
+
+<!-- entry:158 sha:3e83b2a1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":158,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r158">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 158-177.</ref>
+
+<!-- entry:159 sha:00d9c765 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":159,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r159">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 159-178.</ref>
+
+<!-- entry:160 sha:74fc6669 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":160,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r160">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 160-179.</ref>
+
+<!-- entry:161 sha:c6f913ad -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":161,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r161">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 161-180.</ref>
+
+<!-- entry:162 sha:80939331 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":162,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r162">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 162-181.</ref>
+
+<!-- entry:163 sha:f389e8f5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":163,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r163">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 163-182.</ref>
+
+<!-- entry:164 sha:c61858f9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":164,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r164">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 164-183.</ref>
+
+<!-- entry:165 sha:a5bd673d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":165,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r165">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 165-184.</ref>
+
+<!-- entry:166 sha:643dd7c1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":166,"rank":24,"ring":"Q"}
+```
+* Ref: <ref name="r166">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 166-185.</ref>
+
+<!-- entry:167 sha:02e8ae85 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":167,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r167">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 167-186.</ref>
+
+<!-- entry:168 sha:701b2f89 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":168,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r168">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 168-187.</ref>
+
+<!-- entry:169 sha:fb04decd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":169,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r169">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 169-188.</ref>
+
+<!-- entry:170 sha:c1ab8051 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":170,"rank":24,"ring":"Q"}
+```
+* Ref: <ref name="r170">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 170-189.</ref>
+
+<!-- entry:171 sha:9d2f1815 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":171,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r171">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 171-190.</ref>
+
+<!-- entry:172 sha:504dea19 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":172,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r172">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 172-191.</ref>
+
+<!-- entry:173 sha:fc287a5d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":173,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r173">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 173-192.</ref>
+
+<!-- entry:174 sha:1f458ce1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":174,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r174">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 174-193.</ref>
+
+<!-- entry:175 sha:a2d625a5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":175,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r175">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 175-194.</ref>
+
+<!-- entry:176 sha:ba3988a9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":176,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r176">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 176-195.</ref>
+
+<!-- entry:177 sha:98c139ed -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":177,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r177">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 177-196.</ref>
+
+<!-- entry:178 sha:41b4fd71 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":178,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r178">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 178-197.</ref>
+
+<!-- entry:179 sha:f696d735 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":179,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r179">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 179-198.</ref>
+
+<!-- entry:180 sha:07a70b39 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":180,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r180">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 180-199.</ref>
+
+<!-- entry:181 sha:0aa81d7d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":181,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r181">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 181-200.</ref>
+
+<!-- entry:182 sha:bbe2d201 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":182,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r182">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 182-201.</ref>
+
+<!-- entry:183 sha:0d6a2cc5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":183,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r183">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 183-202.</ref>
+
+<!-- entry:184 sha:289f71c9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":184,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r184">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 184-203.</ref>
+
+<!-- entry:185 sha:65f6250d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":185,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r185">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 185-204.</ref>
+
+<!-- entry:186 sha:7ef80a91 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":186,"rank":72,"ring":"Q"}
+```
+* Ref: <ref name="r186">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 186-205.</ref>
+
+<!-- entry:187 sha:7e892655 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":187,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r187">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 187-206.</ref>
+
+<!-- entry:188 sha:336bbc59 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":188,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r188">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 188-207.</ref>
+
+<!-- entry:189 sha:2904509d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":189,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r189">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 189-208.</ref>
+
+<!-- entry:190 sha:6a5da721 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":190,"rank":24,"ring":"Q"}
+```
+* Ref: <ref name="r190">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 190-209.</ref>
+
+<!-- entry:191 sha:936cc3e5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":191,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r191">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 191-210.</ref>
+
+<!-- entry:192 sha:f494eae9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":192,"rank":48,"ring":"Q"}
+```
+* Ref: <ref name="r192">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 192-211.</ref>
+
+<!-- entry:193 sha:cc6ba02d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":193,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r193">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 193-212.</ref>
+
+<!-- entry:194 sha:dbbca7b1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":194,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r194">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 194-213.</ref>
+
+<!-- entry:195 sha:d7ce0575 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":195,"rank":12,"ring":"Q"}
+```
+* Ref: <ref name="r195">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 195-214.</ref>
+
+<!-- entry:196 sha:7ee3fd79 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":196,"rank":16,"ring":"Q"}
+```
+* Ref: <ref name="r196">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 196-215.</ref>
+
+<!-- entry:197 sha:530513bd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":197,"rank":36,"ring":"Q"}
+```
+* Ref: <ref name="r197">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 197-216.</ref>
+
+<!-- entry:198 sha:3efe0c41 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":198,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r198">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 198-217.</ref>
+
+<!-- entry:199 sha:a9a5eb05 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":199,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r199">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 199-218.</ref>
+
+<!-- entry:200 sha:bb61f409 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":200,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r200">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 200-219.</ref>
+
+<!-- entry:201 sha:d9e9ab4d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":201,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r201">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 201-220.</ref>
+
+<!-- entry:202 sha:9e4ad4d1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":202,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r202">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 202-221.</ref>
+
+<!-- entry:203 sha:c92d7495 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":203,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r203">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 203-222.</ref>
+
+<!-- entry:204 sha:f957ce99 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":204,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r204">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 204-223.</ref>
+
+<!-- entry:205 sha:287266dd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":205,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r205">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 205-224.</ref>
+
+<!-- entry:206 sha:320c0161 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":206,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r206">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 206-225.</ref>
+
+<!-- entry:207 sha:e8dda225 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":207,"rank":60,"ring":"Q"}
+```
+* Ref: <ref name="r207">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 207-226.</ref>
+
+<!-- entry:208 sha:7e4e8d29 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":208,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r208">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 208-227.</ref>
+
+<!-- entry:209 sha:4038466d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":209,"rank":20,"ring":"Q"}
+```
+* Ref: <ref name="r209">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 209-228.</ref>
+
+<!-- entry:210 sha:f0ea91f1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":210,"rank":40,"ring":"Q"}
+```
+* Ref: <ref name="r210">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 210-229.</ref>
+
+<!-- entry:211 sha:3d6f73b5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":211,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r211">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 211-230.</ref>
+
+<!-- entry:212 sha:160f2fb9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":212,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r212">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 212-231.</ref>
+
+<!-- entry:213 sha:ed1449fd -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":213,"rank":84,"ring":"Q"}
+```
+* Ref: <ref name="r213">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 213-232.</ref>
+
+<!-- entry:214 sha:1fcf8681 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":214,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r214">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 214-233.</ref>
+
+<!-- entry:215 sha:0ddbe945 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":215,"rank":28,"ring":"Q"}
+```
+* Ref: <ref name="r215">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 215-234.</ref>
+
+<!-- entry:216 sha:a2a2b649 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":216,"rank":80,"ring":"Q"}
+```
+* Ref: <ref name="r216">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 216-235.</ref>
+
+<!-- entry:217 sha:551f718d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":217,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r217">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 217-236.</ref>
+
+<!-- entry:218 sha:e1e3df11 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":218,"rank":56,"ring":"Q"}
+```
+* Ref: <ref name="r218">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 218-237.</ref>
+
+<!-- entry:219 sha:435c02d5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":219,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r219">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 219-238.</ref>
+
+<!-- entry:220 sha:ac5220d9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":220,"rank":32,"ring":"Q"}
+```
+* Ref: <ref name="r220">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 220-239.</ref>
+
+<!-- entry:221 sha:88b2bd1d -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":221,"rank":52,"ring":"Q"}
+```
+* Ref: <ref name="r221">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 221-240.</ref>
+
+<!-- entry:222 sha:c8909ba1 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":222,"rank":72,"ring":"Q"}
+```
+* Ref: <ref name="r222">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 222-241.</ref>
+
+<!-- entry:223 sha:f968c065 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":223,"rank":44,"ring":"Q"}
+```
+* Ref: <ref name="r223">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 223-242.</ref>
+
+<!-- entry:224 sha:f1a66f69 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":224,"rank":64,"ring":"Q"}
+```
+* Ref: <ref name="r224">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 224-243.</ref>
+
+<!-- entry:225 sha:12672cad -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":225,"rank":68,"ring":"Q"}
+```
+* Ref: <ref name="r225">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 225-244.</ref>
+
+<!-- entry:226 sha:637ebc31 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].
+```json
+{"target":"entropy_encoding","step":226,"rank":88,"ring":"Q"}
+```
+* Ref: <ref name="r226">Jarek Duda, "On Arithmetic coding", Journal of Information (2009), pp. 226-245.</ref>
+
+<!-- entry:227 sha:0dbb21f5 -->
+[[Busy beaver]] (1962): [[Tibor Rado]] proves [[Turing machine]].
+```json
+{"target":"halting_problem","step":227,"rank":76,"ring":"Q"}
+```
+* Ref: <ref name="r227">Tibor Rado, "On Busy beaver", Journal of Information (1962), pp. 227-246.</ref>
+
+<!-- entry:228 sha:f768a1f9 -->
+[[Arithmetic coding]] (2009): [[Jarek Duda]] transforms [[Asymmetric numeral systems]].

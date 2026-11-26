@@ -1,0 +1,1267 @@
+{{Infobox benchmark
+| name = Data compression Benchmark #1
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[mathematics]]
+| primary_metric = 52196 bytes
+| sample_count = 3953291
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 52196 || 4.10 || Yes
+|-
+| Context Mixing || 33927 || 2.28 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #2
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[mathematics]]
+| primary_metric = 4938 bytes
+| sample_count = 8557145
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 4938 || 3.90 || Yes
+|-
+| Context Mixing || 3209 || 1.72 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #3
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[mathematics]]
+| primary_metric = 82944 bytes
+| sample_count = 5482007
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 82944 || 4.10 || Yes
+|-
+| Context Mixing || 53913 || 1.88 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #4
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[mathematics]]
+| primary_metric = 72134 bytes
+| sample_count = 7225669
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 72134 || 3.50 || Yes
+|-
+| Context Mixing || 46887 || 2.28 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #5
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[mathematics]]
+| primary_metric = 78748 bytes
+| sample_count = 8757123
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 78748 || 4.50 || Yes
+|-
+| Context Mixing || 51186 || 2.52 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #6
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[mathematics]]
+| primary_metric = 50434 bytes
+| sample_count = 2941073
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 50434 || 4.70 || Yes
+|-
+| Context Mixing || 32782 || 1.96 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #7
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[coding theory]]
+| primary_metric = 88824 bytes
+| sample_count = 2191919
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 88824 || 4.50 || Yes
+|-
+| Context Mixing || 57735 || 1.72 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #8
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[combinatorics]]
+| primary_metric = 67838 bytes
+| sample_count = 7608285
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 67838 || 4.30 || Yes
+|-
+| Context Mixing || 44094 || 2.52 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #9
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 30868 bytes
+| sample_count = 9441275
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 30868 || 4.10 || Yes
+|-
+| Context Mixing || 20064 || 2.20 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #10
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[combinatorics]]
+| primary_metric = 87034 bytes
+| sample_count = 1257097
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 87034 || 4.70 || Yes
+|-
+| Context Mixing || 56572 || 2.28 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #11
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[combinatorics]]
+| primary_metric = 48048 bytes
+| sample_count = 98023
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 48048 || 3.30 || Yes
+|-
+| Context Mixing || 31231 || 1.64 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #12
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[information theory]]
+| primary_metric = 62070 bytes
+| sample_count = 1518069
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 62070 || 5.10 || Yes
+|-
+| Context Mixing || 40345 || 1.48 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #13
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 1228 bytes
+| sample_count = 1106195
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 1228 || 3.70 || Yes
+|-
+| Context Mixing || 798 || 2.36 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #14
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[theoretical computer science]]
+| primary_metric = 85810 bytes
+| sample_count = 9353825
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 85810 || 4.70 || Yes
+|-
+| Context Mixing || 55776 || 1.48 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #15
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[information theory]]
+| primary_metric = 62568 bytes
+| sample_count = 2943231
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 62568 || 4.50 || Yes
+|-
+| Context Mixing || 40669 || 1.96 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #16
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[combinatorics]]
+| primary_metric = 48110 bytes
+| sample_count = 7844813
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 48110 || 5.10 || Yes
+|-
+| Context Mixing || 31271 || 2.44 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #17
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[combinatorics]]
+| primary_metric = 79748 bytes
+| sample_count = 3430443
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 79748 || 4.50 || Yes
+|-
+| Context Mixing || 51836 || 2.52 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #18
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[theoretical computer science]]
+| primary_metric = 58218 bytes
+| sample_count = 5112569
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 58218 || 3.50 || Yes
+|-
+| Context Mixing || 37841 || 1.40 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #19
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[theoretical computer science]]
+| primary_metric = 78496 bytes
+| sample_count = 8011223
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 78496 || 3.70 || Yes
+|-
+| Context Mixing || 51022 || 2.36 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #20
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[combinatorics]]
+| primary_metric = 86758 bytes
+| sample_count = 8999685
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 86758 || 5.10 || Yes
+|-
+| Context Mixing || 56392 || 2.12 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #21
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 49468 bytes
+| sample_count = 3765091
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 49468 || 4.90 || Yes
+|-
+| Context Mixing || 32154 || 2.12 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #22
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[combinatorics]]
+| primary_metric = 12450 bytes
+| sample_count = 278833
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 12450 || 4.70 || Yes
+|-
+| Context Mixing || 8092 || 1.72 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #23
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[information theory]]
+| primary_metric = 32024 bytes
+| sample_count = 1980719
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 32024 || 4.10 || Yes
+|-
+| Context Mixing || 20815 || 1.48 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #24
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[mathematics]]
+| primary_metric = 72798 bytes
+| sample_count = 7918845
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 72798 || 5.10 || Yes
+|-
+| Context Mixing || 47318 || 1.80 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #25
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 43124 bytes
+| sample_count = 2983707
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 43124 || 4.50 || Yes
+|-
+| Context Mixing || 28030 || 2.44 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #26
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[combinatorics]]
+| primary_metric = 49434 bytes
+| sample_count = 3131145
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 49434 || 4.70 || Yes
+|-
+| Context Mixing || 32132 || 1.72 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #27
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[coding theory]]
+| primary_metric = 57232 bytes
+| sample_count = 2983751
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 57232 || 3.70 || Yes
+|-
+| Context Mixing || 37200 || 2.04 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #28
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[combinatorics]]
+| primary_metric = 81110 bytes
+| sample_count = 6044661
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 81110 || 3.90 || Yes
+|-
+| Context Mixing || 52721 || 2.52 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #29
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[mathematics]]
+| primary_metric = 84396 bytes
+| sample_count = 3382259
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 84396 || 3.70 || Yes
+|-
+| Context Mixing || 54857 || 1.40 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #30
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[coding theory]]
+| primary_metric = 57746 bytes
+| sample_count = 7248865
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 57746 || 3.50 || Yes
+|-
+| Context Mixing || 37534 || 2.04 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #31
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[theoretical computer science]]
+| primary_metric = 18568 bytes
+| sample_count = 3363551
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 18568 || 4.90 || Yes
+|-
+| Context Mixing || 12069 || 1.64 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #32
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[combinatorics]]
+| primary_metric = 66510 bytes
+| sample_count = 9167533
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 66510 || 3.50 || Yes
+|-
+| Context Mixing || 43231 || 2.28 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #33
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[theoretical computer science]]
+| primary_metric = 33636 bytes
+| sample_count = 7063531
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 33636 || 3.70 || Yes
+|-
+| Context Mixing || 21863 || 1.64 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #34
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[coding theory]]
+| primary_metric = 55690 bytes
+| sample_count = 5584633
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 55690 || 3.50 || Yes
+|-
+| Context Mixing || 36198 || 2.52 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #35
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[combinatorics]]
+| primary_metric = 22848 bytes
+| sample_count = 3407511
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 22848 || 4.10 || Yes
+|-
+| Context Mixing || 14851 || 1.96 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #36
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[information theory]]
+| primary_metric = 55238 bytes
+| sample_count = 6408837
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 55238 || 4.30 || Yes
+|-
+| Context Mixing || 35904 || 1.80 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #37
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[mathematics]]
+| primary_metric = 50972 bytes
+| sample_count = 1142531
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 50972 || 3.70 || Yes
+|-
+| Context Mixing || 33131 || 2.20 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #38
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[information theory]]
+| primary_metric = 6658 bytes
+| sample_count = 6004977
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 6658 || 3.90 || Yes
+|-
+| Context Mixing || 4327 || 2.12 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #39
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[theoretical computer science]]
+| primary_metric = 53368 bytes
+| sample_count = 5335727
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 53368 || 4.90 || Yes
+|-
+| Context Mixing || 34689 || 1.56 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #40
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[information theory]]
+| primary_metric = 25022 bytes
+| sample_count = 5737437
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 25022 || 4.30 || Yes
+|-
+| Context Mixing || 16264 || 2.44 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #41
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 35412 bytes
+| sample_count = 1903707
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 35412 || 3.70 || Yes
+|-
+| Context Mixing || 23017 || 2.04 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #42
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[mathematics]]
+| primary_metric = 27066 bytes
+| sample_count = 9331785
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 27066 || 3.90 || Yes
+|-
+| Context Mixing || 17592 || 1.48 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #43
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[theoretical computer science]]
+| primary_metric = 5168 bytes
+| sample_count = 2643239
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 5168 || 4.90 || Yes
+|-
+| Context Mixing || 3359 || 2.52 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #44
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[mathematics]]
+| primary_metric = 9462 bytes
+| sample_count = 1552469
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 9462 || 4.70 || Yes
+|-
+| Context Mixing || 6150 || 1.64 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #45
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[combinatorics]]
+| primary_metric = 2508 bytes
+| sample_count = 106195
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 2508 || 4.10 || Yes
+|-
+| Context Mixing || 1630 || 1.96 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #46
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[mathematics]]
+| primary_metric = 7794 bytes
+| sample_count = 286529
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 7794 || 3.90 || Yes
+|-
+| Context Mixing || 5066 || 1.72 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #47
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[mathematics]]
+| primary_metric = 53928 bytes
+| sample_count = 9394079
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 53928 || 4.10 || Yes
+|-
+| Context Mixing || 35053 || 1.40 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #48
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[theoretical computer science]]
+| primary_metric = 10542 bytes
+| sample_count = 1874541
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 10542 || 4.30 || Yes
+|-
+| Context Mixing || 6852 || 1.72 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #49
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 5316 bytes
+| sample_count = 6315723
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 5316 || 3.70 || Yes
+|-
+| Context Mixing || 3455 || 2.12 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #50
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[theoretical computer science]]
+| primary_metric = 49386 bytes
+| sample_count = 771833
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 49386 || 3.50 || Yes
+|-
+| Context Mixing || 32100 || 2.36 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #51
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[information theory]]
+| primary_metric = 49568 bytes
+| sample_count = 7728759
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 49568 || 4.50 || Yes
+|-
+| Context Mixing || 32219 || 2.44 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #52
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[coding theory]]
+| primary_metric = 66278 bytes
+| sample_count = 6430245
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 66278 || 4.70 || Yes
+|-
+| Context Mixing || 43080 || 2.12 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #53
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 35324 bytes
+| sample_count = 1080771
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 35324 || 4.10 || Yes
+|-
+| Context Mixing || 22960 || 1.80 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #54
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[combinatorics]]
+| primary_metric = 18530 bytes
+| sample_count = 7719313
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 18530 || 4.30 || Yes
+|-
+| Context Mixing || 12044 || 1.80 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #55
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[mathematics]]
+| primary_metric = 43224 bytes
+| sample_count = 6833007
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 43224 || 4.10 || Yes
+|-
+| Context Mixing || 28095 || 2.44 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #56
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[information theory]]
+| primary_metric = 57310 bytes
+| sample_count = 9246973
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 57310 || 3.50 || Yes
+|-
+| Context Mixing || 37251 || 1.40 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #57
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[combinatorics]]
+| primary_metric = 4084 bytes
+| sample_count = 6864315
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 4084 || 4.10 || Yes
+|-
+| Context Mixing || 2654 || 1.56 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #58
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[combinatorics]]
+| primary_metric = 4634 bytes
+| sample_count = 7438281
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 4634 || 4.30 || Yes
+|-
+| Context Mixing || 3012 || 2.28 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #59
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[coding theory]]
+| primary_metric = 5520 bytes
+| sample_count = 4816167
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 5520 || 4.90 || Yes
+|-
+| Context Mixing || 3588 || 2.04 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #60
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[theoretical computer science]]
+| primary_metric = 12886 bytes
+| sample_count = 6412117
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 12886 || 4.70 || Yes
+|-
+| Context Mixing || 8375 || 1.80 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #61
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[information theory]]
+| primary_metric = 77292 bytes
+| sample_count = 1394675
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 77292 || 4.10 || Yes
+|-
+| Context Mixing || 50239 || 1.48 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #62
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[information theory]]
+| primary_metric = 24978 bytes
+| sample_count = 1105569
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 24978 || 4.70 || Yes
+|-
+| Context Mixing || 16235 || 2.12 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #63
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[coding theory]]
+| primary_metric = 5768 bytes
+| sample_count = 214367
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 5768 || 3.70 || Yes
+|-
+| Context Mixing || 3749 || 2.12 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #64
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[combinatorics]]
+| primary_metric = 56718 bytes
+| sample_count = 6267725
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 56718 || 4.70 || Yes
+|-
+| Context Mixing || 36866 || 2.04 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #65
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[combinatorics]]
+| primary_metric = 3684 bytes
+| sample_count = 4935467
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 3684 || 4.50 || Yes
+|-
+| Context Mixing || 2394 || 2.44 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #66
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[combinatorics]]
+| primary_metric = 64330 bytes
+| sample_count = 4017849
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 64330 || 5.10 || Yes
+|-
+| Context Mixing || 41814 || 1.96 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #67
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[information theory]]
+| primary_metric = 28544 bytes
+| sample_count = 3510903
+| related = [[Matrix multiplication]], [[Bilinear complexity]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 28544 || 4.50 || Yes
+|-
+| Context Mixing || 18553 || 1.88 || Yes
+|}
+
+{{Infobox benchmark
+| name = Busy beaver Benchmark #68
+| author = [[Tibor Rado]]
+| year = 1962
+| field = [[theoretical computer science]]
+| primary_metric = 79046 bytes
+| sample_count = 7909797
+| related = [[Turing machine]], [[Halting problem]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 79046 || 3.90 || Yes
+|-
+| Context Mixing || 51379 || 2.52 || Yes
+|}
+
+{{Infobox benchmark
+| name = Data compression Benchmark #69
+| author = [[Claude Shannon]]
+| year = 1948
+| field = [[coding theory]]
+| primary_metric = 67676 bytes
+| sample_count = 3170883
+| related = [[Shannon entropy]], [[Huffman coding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 67676 || 4.90 || Yes
+|-
+| Context Mixing || 43989 || 1.80 || Yes
+|}
+
+{{Infobox benchmark
+| name = Arithmetic coding Benchmark #70
+| author = [[Jarek Duda]]
+| year = 2009
+| field = [[information theory]]
+| primary_metric = 74882 bytes
+| sample_count = 4615889
+| related = [[Asymmetric numeral systems]], [[Entropy encoding]]
+| license = Apache-2.0
+}}
+{| class="wikitable sortable"
+! Method !! Compressed Size (bytes) !! Bitrate (bpc) !! Deterministic
+|-
+| BWT + MTF + RLE0 || 74882 || 3.90 || Yes
+|-
+| Context Mixing || 48673 || 2.44 || Yes
+|}
+
+{{Infobox benchmark
+| name = Strassen algorithm Benchmark #71
+| author = [[Volker Strassen]]
+| year = 1969
+| field = [[mathematics]]
+| primary_metric = 48632 bytes
+|

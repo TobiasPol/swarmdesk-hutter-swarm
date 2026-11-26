@@ -1,0 +1,399 @@
+=== Theorem 1 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{26}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 88.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{26} -p_i \log_2 p_i + \frac{1}{88}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..25] with zero distortion. QED.
+
+=== Theorem 2 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{14}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 53.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{14} -p_i \log_2 p_i + \frac{1}{53}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..13] with zero distortion. QED.
+
+=== Theorem 3 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{2}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 60.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{2} -p_i \log_2 p_i + \frac{1}{60}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..1] with zero distortion. QED.
+
+=== Theorem 4 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{54}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 23.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{54} -p_i \log_2 p_i + \frac{1}{23}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..53] with zero distortion. QED.
+
+=== Theorem 5 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{42}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 28.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{42} -p_i \log_2 p_i + \frac{1}{28}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..41] with zero distortion. QED.
+
+=== Theorem 6 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{30}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 59.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{30} -p_i \log_2 p_i + \frac{1}{59}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..29] with zero distortion. QED.
+
+=== Theorem 7 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{18}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 42.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{18} -p_i \log_2 p_i + \frac{1}{42}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..17] with zero distortion. QED.
+
+=== Theorem 8 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{6}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 55.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{6} -p_i \log_2 p_i + \frac{1}{55}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..5] with zero distortion. QED.
+
+=== Theorem 9 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{58}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 88.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{58} -p_i \log_2 p_i + \frac{1}{88}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..57] with zero distortion. QED.
+
+=== Theorem 10 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{46}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 14.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{46} -p_i \log_2 p_i + \frac{1}{14}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..45] with zero distortion. QED.
+
+=== Theorem 11 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{34}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 77.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{34} -p_i \log_2 p_i + \frac{1}{77}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..33] with zero distortion. QED.
+
+=== Theorem 12 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{22}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 19.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{22} -p_i \log_2 p_i + \frac{1}{19}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..21] with zero distortion. QED.
+
+=== Theorem 13 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{10}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 93.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{10} -p_i \log_2 p_i + \frac{1}{93}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..9] with zero distortion. QED.
+
+=== Theorem 14 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{62}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 83.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{62} -p_i \log_2 p_i + \frac{1}{83}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..61] with zero distortion. QED.
+
+=== Theorem 15 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{50}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 97.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{50} -p_i \log_2 p_i + \frac{1}{97}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..49] with zero distortion. QED.
+
+=== Theorem 16 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{38}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 88.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{38} -p_i \log_2 p_i + \frac{1}{88}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..37] with zero distortion. QED.
+
+=== Theorem 17 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{26}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 27.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{26} -p_i \log_2 p_i + \frac{1}{27}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..25] with zero distortion. QED.
+
+=== Theorem 18 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{14}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 88.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{14} -p_i \log_2 p_i + \frac{1}{88}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..13] with zero distortion. QED.
+
+=== Theorem 19 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{2}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 33.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{2} -p_i \log_2 p_i + \frac{1}{33}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..1] with zero distortion. QED.
+
+=== Theorem 20 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{54}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 84.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{54} -p_i \log_2 p_i + \frac{1}{84}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..53] with zero distortion. QED.
+
+=== Theorem 21 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{42}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 71.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{42} -p_i \log_2 p_i + \frac{1}{71}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..41] with zero distortion. QED.
+
+=== Theorem 22 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{30}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 74.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{30} -p_i \log_2 p_i + \frac{1}{74}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..29] with zero distortion. QED.
+
+=== Theorem 23 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{18}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 79.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{18} -p_i \log_2 p_i + \frac{1}{79}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..17] with zero distortion. QED.
+
+=== Theorem 24 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{6}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 17.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{6} -p_i \log_2 p_i + \frac{1}{17}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..5] with zero distortion. QED.
+
+=== Theorem 25 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{58}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 32.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{58} -p_i \log_2 p_i + \frac{1}{32}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..57] with zero distortion. QED.
+
+=== Theorem 26 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{46}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 45.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{46} -p_i \log_2 p_i + \frac{1}{45}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..45] with zero distortion. QED.
+
+=== Theorem 27 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{34}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 16.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{34} -p_i \log_2 p_i + \frac{1}{16}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..33] with zero distortion. QED.
+
+=== Theorem 28 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{22}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 69.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{22} -p_i \log_2 p_i + \frac{1}{69}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..21] with zero distortion. QED.
+
+=== Theorem 29 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{10}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 84.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{10} -p_i \log_2 p_i + \frac{1}{84}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..9] with zero distortion. QED.
+
+=== Theorem 30 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{62}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 29.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{62} -p_i \log_2 p_i + \frac{1}{29}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..61] with zero distortion. QED.
+
+=== Theorem 31 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{50}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 77.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{50} -p_i \log_2 p_i + \frac{1}{77}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..49] with zero distortion. QED.
+
+=== Theorem 32 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{38}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 85.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{38} -p_i \log_2 p_i + \frac{1}{85}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..37] with zero distortion. QED.
+
+=== Theorem 33 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{26}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 30.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{26} -p_i \log_2 p_i + \frac{1}{30}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..25] with zero distortion. QED.
+
+=== Theorem 34 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{14}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 78.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{14} -p_i \log_2 p_i + \frac{1}{78}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..13] with zero distortion. QED.
+
+=== Theorem 35 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{2}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 85.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{2} -p_i \log_2 p_i + \frac{1}{85}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..1] with zero distortion. QED.
+
+=== Theorem 36 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{54}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 85.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{54} -p_i \log_2 p_i + \frac{1}{85}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..53] with zero distortion. QED.
+
+=== Theorem 37 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{42}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 62.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{42} -p_i \log_2 p_i + \frac{1}{62}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..41] with zero distortion. QED.
+
+=== Theorem 38 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{30}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 42.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{30} -p_i \log_2 p_i + \frac{1}{42}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..29] with zero distortion. QED.
+
+=== Theorem 39 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{18}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 81.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{18} -p_i \log_2 p_i + \frac{1}{81}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..17] with zero distortion. QED.
+
+=== Theorem 40 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{6}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 73.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{6} -p_i \log_2 p_i + \frac{1}{73}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..5] with zero distortion. QED.
+
+=== Theorem 41 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{58}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 39.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{58} -p_i \log_2 p_i + \frac{1}{39}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..57] with zero distortion. QED.
+
+=== Theorem 42 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{46}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 81.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{46} -p_i \log_2 p_i + \frac{1}{81}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..45] with zero distortion. QED.
+
+=== Theorem 43 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{34}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 95.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{34} -p_i \log_2 p_i + \frac{1}{95}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..33] with zero distortion. QED.
+
+=== Theorem 44 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{22}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 37.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{22} -p_i \log_2 p_i + \frac{1}{37}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..21] with zero distortion. QED.
+
+=== Theorem 45 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{10}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 18.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{10} -p_i \log_2 p_i + \frac{1}{18}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..9] with zero distortion. QED.
+
+=== Theorem 46 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{62}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 32.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{62} -p_i \log_2 p_i + \frac{1}{32}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..61] with zero distortion. QED.
+
+=== Theorem 47 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{50}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 44.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{50} -p_i \log_2 p_i + \frac{1}{44}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..49] with zero distortion. QED.
+
+=== Theorem 48 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{38}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 49.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{38} -p_i \log_2 p_i + \frac{1}{49}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..37] with zero distortion. QED.
+
+=== Theorem 49 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{26}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 44.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{26} -p_i \log_2 p_i + \frac{1}{44}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..25] with zero distortion. QED.
+
+=== Theorem 50 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{14}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 72.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{14} -p_i \log_2 p_i + \frac{1}{72}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..13] with zero distortion. QED.
+
+=== Theorem 51 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{2}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 93.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{2} -p_i \log_2 p_i + \frac{1}{93}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..1] with zero distortion. QED.
+
+=== Theorem 52 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{54}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 90.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{54} -p_i \log_2 p_i + \frac{1}{90}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..53] with zero distortion. QED.
+
+=== Theorem 53 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{42}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 37.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{42} -p_i \log_2 p_i + \frac{1}{37}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..41] with zero distortion. QED.
+
+=== Theorem 54 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{30}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 85.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{30} -p_i \log_2 p_i + \frac{1}{85}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..29] with zero distortion. QED.
+
+=== Theorem 55 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{18}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 76.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{18} -p_i \log_2 p_i + \frac{1}{76}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..17] with zero distortion. QED.
+
+=== Theorem 56 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{6}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 77.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{6} -p_i \log_2 p_i + \frac{1}{77}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..5] with zero distortion. QED.
+
+=== Theorem 57 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{58}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 59.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{58} -p_i \log_2 p_i + \frac{1}{59}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..57] with zero distortion. QED.
+
+=== Theorem 58 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{46}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 34.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{46} -p_i \log_2 p_i + \frac{1}{34}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..45] with zero distortion. QED.
+
+=== Theorem 59 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{34}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 62.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{34} -p_i \log_2 p_i + \frac{1}{62}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..33] with zero distortion. QED.
+
+=== Theorem 60 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{22}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 52.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{22} -p_i \log_2 p_i + \frac{1}{52}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..21] with zero distortion. QED.
+
+=== Theorem 61 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{10}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 58.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{10} -p_i \log_2 p_i + \frac{1}{58}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..9] with zero distortion. QED.
+
+=== Theorem 62 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{62}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 50.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{62} -p_i \log_2 p_i + \frac{1}{50}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..61] with zero distortion. QED.
+
+=== Theorem 63 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{50}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 56.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{50} -p_i \log_2 p_i + \frac{1}{56}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..49] with zero distortion. QED.
+
+=== Theorem 64 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{38}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 58.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{38} -p_i \log_2 p_i + \frac{1}{58}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..37] with zero distortion. QED.
+
+=== Theorem 65 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{26}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 57.
+By Matt Mahoney's theorem on PAQ8, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{26} -p_i \log_2 p_i + \frac{1}{57}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..25] with zero distortion. QED.
+
+=== Theorem 66 (Burrows-Wheeler transform, 1994) ===
+Let <math>x \in \{0, 1\}^{14}</math> be encoded over <math>\mathbb{F}_{3}</math> with modulus 47.
+By Michael Burrows's theorem on Suffix array, the minimal lossless program length satisfies:
+:<math>\ell(x) \ge \sum_{i=1}^{14} -p_i \log_2 p_i + \frac{1}{47}</math>
+Proof outline: Apply Jensen's inequality to the Kraft sum <math>\sum 2^{-\ell_i} \le 1</math>. Every deterministic prefix decoder recovers byte stream S[0..13] with zero distortion. QED.
+
+=== Theorem 67 (Context mixing, 2006) ===
+Let <math>x \in \{0, 1\}^{2}</math> be encoded over <math>\mathbb{F}_{13}</math> with modulus 37.
+By Matt Mahoney's theorem on

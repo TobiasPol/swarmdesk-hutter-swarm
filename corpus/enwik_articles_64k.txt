@@ -1,0 +1,1306 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xml:lang="en">
+  <page>
+    <title>Kissing number (1001)</title>
+    <ns>0</ns>
+    <id>1001</id>
+    <revision>
+      <id>948192907</id>
+      <timestamp>2026-01-21T12:16:00Z</timestamp>
+      <contributor><username>WikiBot_15</username><id>531</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Kissing number''' is a foundational topic in [[coding theory]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 900, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:coding theory]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1002)</title>
+    <ns>0</ns>
+    <id>1002</id>
+    <revision>
+      <id>913918166</id>
+      <timestamp>2026-02-20T11:56:00Z</timestamp>
+      <contributor><username>WikiBot_16</username><id>532</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Busy beaver''' is a foundational topic in [[mathematics]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 155, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:mathematics]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1003)</title>
+    <ns>0</ns>
+    <id>1003</id>
+    <revision>
+      <id>906412421</id>
+      <timestamp>2026-04-25T13:12:00Z</timestamp>
+      <contributor><username>WikiBot_0</username><id>533</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Context mixing''' is a foundational topic in [[combinatorics]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 870, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:combinatorics]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1004)</title>
+    <ns>0</ns>
+    <id>1004</id>
+    <revision>
+      <id>911413064</id>
+      <timestamp>2026-08-22T11:50:00Z</timestamp>
+      <contributor><username>WikiBot_1</username><id>534</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Strassen algorithm''' is a foundational topic in [[combinatorics]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 85, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:combinatorics]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1005)</title>
+    <ns>0</ns>
+    <id>1005</id>
+    <revision>
+      <id>966466063</id>
+      <timestamp>2026-03-27T13:43:00Z</timestamp>
+      <contributor><username>WikiBot_2</username><id>535</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Algorithmic information theory''' is a foundational topic in [[information theory]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 536, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:information theory]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1006)</title>
+    <ns>0</ns>
+    <id>1006</id>
+    <revision>
+      <id>950593162</id>
+      <timestamp>2026-03-16T18:34:00Z</timestamp>
+      <contributor><username>WikiBot_3</username><id>536</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Arithmetic coding''' is a foundational topic in [[coding theory]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 415, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:coding theory]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1007)</title>
+    <ns>0</ns>
+    <id>1007</id>
+    <revision>
+      <id>953967913</id>
+      <timestamp>2026-05-15T10:42:00Z</timestamp>
+      <contributor><username>WikiBot_4</username><id>537</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[theoretical computer science]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 794, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:theoretical computer science]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1008)</title>
+    <ns>0</ns>
+    <id>1008</id>
+    <revision>
+      <id>970394268</id>
+      <timestamp>2026-05-18T18:30:00Z</timestamp>
+      <contributor><username>WikiBot_5</username><id>538</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Data compression''' is a foundational topic in [[combinatorics]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 953, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:combinatorics]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1009)</title>
+    <ns>0</ns>
+    <id>1009</id>
+    <revision>
+      <id>950469075</id>
+      <timestamp>2026-03-15T13:30:00Z</timestamp>
+      <contributor><username>WikiBot_6</username><id>539</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Kissing number''' is a foundational topic in [[information theory]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 428, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:information theory]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1010)</title>
+    <ns>0</ns>
+    <id>1010</id>
+    <revision>
+      <id>905601022</id>
+      <timestamp>2026-01-20T18:20:00Z</timestamp>
+      <contributor><username>WikiBot_7</username><id>540</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Busy beaver''' is a foundational topic in [[combinatorics]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 931, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:combinatorics]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1011)</title>
+    <ns>0</ns>
+    <id>1011</id>
+    <revision>
+      <id>944022157</id>
+      <timestamp>2026-05-27T18:14:00Z</timestamp>
+      <contributor><username>WikiBot_8</username><id>541</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Context mixing''' is a foundational topic in [[coding theory]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 846, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:coding theory]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1012)</title>
+    <ns>0</ns>
+    <id>1012</id>
+    <revision>
+      <id>938248880</id>
+      <timestamp>2026-09-20T12:53:00Z</timestamp>
+      <contributor><username>WikiBot_9</username><id>542</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Strassen algorithm''' is a foundational topic in [[information theory]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 797, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:information theory]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1013)</title>
+    <ns>0</ns>
+    <id>1013</id>
+    <revision>
+      <id>967513047</id>
+      <timestamp>2026-02-25T16:25:00Z</timestamp>
+      <contributor><username>WikiBot_10</username><id>543</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Algorithmic information theory''' is a foundational topic in [[information theory]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 832, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:information theory]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1014)</title>
+    <ns>0</ns>
+    <id>1014</id>
+    <revision>
+      <id>906731186</id>
+      <timestamp>2026-08-24T14:41:00Z</timestamp>
+      <contributor><username>WikiBot_11</username><id>544</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Arithmetic coding''' is a foundational topic in [[mathematics]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 679, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:mathematics]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1015)</title>
+    <ns>0</ns>
+    <id>1015</id>
+    <revision>
+      <id>938585521</id>
+      <timestamp>2026-09-15T18:44:00Z</timestamp>
+      <contributor><username>WikiBot_12</username><id>545</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[theoretical computer science]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 450, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:theoretical computer science]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1016)</title>
+    <ns>0</ns>
+    <id>1016</id>
+    <revision>
+      <id>967303300</id>
+      <timestamp>2026-06-20T13:14:00Z</timestamp>
+      <contributor><username>WikiBot_13</username><id>546</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Data compression''' is a foundational topic in [[coding theory]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 769, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:coding theory]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1017)</title>
+    <ns>0</ns>
+    <id>1017</id>
+    <revision>
+      <id>977851547</id>
+      <timestamp>2026-02-25T11:49:00Z</timestamp>
+      <contributor><username>WikiBot_14</username><id>547</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Kissing number''' is a foundational topic in [[coding theory]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 404, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:coding theory]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1018)</title>
+    <ns>0</ns>
+    <id>1018</id>
+    <revision>
+      <id>959968422</id>
+      <timestamp>2026-09-22T16:47:00Z</timestamp>
+      <contributor><username>WikiBot_15</username><id>548</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Busy beaver''' is a foundational topic in [[combinatorics]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 747, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:combinatorics]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1019)</title>
+    <ns>0</ns>
+    <id>1019</id>
+    <revision>
+      <id>971554325</id>
+      <timestamp>2026-02-25T15:16:00Z</timestamp>
+      <contributor><username>WikiBot_16</username><id>549</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Context mixing''' is a foundational topic in [[mathematics]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 630, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:mathematics]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1020)</title>
+    <ns>0</ns>
+    <id>1020</id>
+    <revision>
+      <id>984401432</id>
+      <timestamp>2026-04-26T17:17:00Z</timestamp>
+      <contributor><username>WikiBot_0</username><id>550</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Strassen algorithm''' is a foundational topic in [[coding theory]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 869, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:coding theory]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1021)</title>
+    <ns>0</ns>
+    <id>1021</id>
+    <revision>
+      <id>944238623</id>
+      <timestamp>2026-05-23T17:30:00Z</timestamp>
+      <contributor><username>WikiBot_1</username><id>551</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Algorithmic information theory''' is a foundational topic in [[mathematics]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 168, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:mathematics]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1022)</title>
+    <ns>0</ns>
+    <id>1022</id>
+    <revision>
+      <id>938431578</id>
+      <timestamp>2026-06-20T12:24:00Z</timestamp>
+      <contributor><username>WikiBot_2</username><id>552</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Arithmetic coding''' is a foundational topic in [[coding theory]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 303, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:coding theory]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1023)</title>
+    <ns>0</ns>
+    <id>1023</id>
+    <revision>
+      <id>948509241</id>
+      <timestamp>2026-05-11T17:55:00Z</timestamp>
+      <contributor><username>WikiBot_3</username><id>553</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[combinatorics]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 682, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:combinatorics]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1024)</title>
+    <ns>0</ns>
+    <id>1024</id>
+    <revision>
+      <id>957144428</id>
+      <timestamp>2026-08-20T17:26:00Z</timestamp>
+      <contributor><username>WikiBot_4</username><id>554</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Data compression''' is a foundational topic in [[combinatorics]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 137, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:combinatorics]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1025)</title>
+    <ns>0</ns>
+    <id>1025</id>
+    <revision>
+      <id>928804195</id>
+      <timestamp>2026-07-23T18:38:00Z</timestamp>
+      <contributor><username>WikiBot_5</username><id>555</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Kissing number''' is a foundational topic in [[mathematics]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 828, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:mathematics]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1026)</title>
+    <ns>0</ns>
+    <id>1026</id>
+    <revision>
+      <id>951495758</id>
+      <timestamp>2026-09-22T14:54:00Z</timestamp>
+      <contributor><username>WikiBot_6</username><id>556</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Busy beaver''' is a foundational topic in [[theoretical computer science]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 755, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:theoretical computer science]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1027)</title>
+    <ns>0</ns>
+    <id>1027</id>
+    <revision>
+      <id>933233181</id>
+      <timestamp>2026-03-11T15:46:00Z</timestamp>
+      <contributor><username>WikiBot_7</username><id>557</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Context mixing''' is a foundational topic in [[combinatorics]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 158, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:combinatorics]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1028)</title>
+    <ns>0</ns>
+    <id>1028</id>
+    <revision>
+      <id>900727168</id>
+      <timestamp>2026-09-24T11:17:00Z</timestamp>
+      <contributor><username>WikiBot_8</username><id>558</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Strassen algorithm''' is a foundational topic in [[mathematics]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 941, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:mathematics]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1029)</title>
+    <ns>0</ns>
+    <id>1029</id>
+    <revision>
+      <id>951708519</id>
+      <timestamp>2026-05-17T15:15:00Z</timestamp>
+      <contributor><username>WikiBot_9</username><id>559</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Algorithmic information theory''' is a foundational topic in [[mathematics]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 208, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:mathematics]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1030)</title>
+    <ns>0</ns>
+    <id>1030</id>
+    <revision>
+      <id>937036418</id>
+      <timestamp>2026-01-22T12:33:00Z</timestamp>
+      <contributor><username>WikiBot_10</username><id>560</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Arithmetic coding''' is a foundational topic in [[combinatorics]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 503, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:combinatorics]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1031)</title>
+    <ns>0</ns>
+    <id>1031</id>
+    <revision>
+      <id>924732225</id>
+      <timestamp>2026-05-25T11:42:00Z</timestamp>
+      <contributor><username>WikiBot_11</username><id>561</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[combinatorics]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 530, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:combinatorics]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1032)</title>
+    <ns>0</ns>
+    <id>1032</id>
+    <revision>
+      <id>989821140</id>
+      <timestamp>2026-04-26T12:50:00Z</timestamp>
+      <contributor><username>WikiBot_12</username><id>562</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Data compression''' is a foundational topic in [[information theory]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 145, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:information theory]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1033)</title>
+    <ns>0</ns>
+    <id>1033</id>
+    <revision>
+      <id>954942763</id>
+      <timestamp>2026-03-19T17:28:00Z</timestamp>
+      <contributor><username>WikiBot_13</username><id>563</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Kissing number''' is a foundational topic in [[coding theory]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 228, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:coding theory]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1034)</title>
+    <ns>0</ns>
+    <id>1034</id>
+    <revision>
+      <id>952690806</id>
+      <timestamp>2026-01-12T10:40:00Z</timestamp>
+      <contributor><username>WikiBot_14</username><id>564</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Busy beaver''' is a foundational topic in [[combinatorics]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 955, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:combinatorics]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1035)</title>
+    <ns>0</ns>
+    <id>1035</id>
+    <revision>
+      <id>982350373</id>
+      <timestamp>2026-04-27T14:10:00Z</timestamp>
+      <contributor><username>WikiBot_15</username><id>565</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Context mixing''' is a foundational topic in [[theoretical computer science]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 518, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:theoretical computer science]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1036)</title>
+    <ns>0</ns>
+    <id>1036</id>
+    <revision>
+      <id>973237352</id>
+      <timestamp>2026-08-26T17:38:00Z</timestamp>
+      <contributor><username>WikiBot_16</username><id>566</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Strassen algorithm''' is a foundational topic in [[information theory]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 181, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:information theory]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1037)</title>
+    <ns>0</ns>
+    <id>1037</id>
+    <revision>
+      <id>938384559</id>
+      <timestamp>2026-03-21T13:16:00Z</timestamp>
+      <contributor><username>WikiBot_0</username><id>567</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Algorithmic information theory''' is a foundational topic in [[mathematics]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 888, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:mathematics]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1038)</title>
+    <ns>0</ns>
+    <id>1038</id>
+    <revision>
+      <id>931002922</id>
+      <timestamp>2026-04-12T16:46:00Z</timestamp>
+      <contributor><username>WikiBot_1</username><id>568</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Arithmetic coding''' is a foundational topic in [[mathematics]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 575, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:mathematics]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1039)</title>
+    <ns>0</ns>
+    <id>1039</id>
+    <revision>
+      <id>935670473</id>
+      <timestamp>2026-07-19T17:49:00Z</timestamp>
+      <contributor><username>WikiBot_2</username><id>569</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[mathematics]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 186, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:mathematics]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1040)</title>
+    <ns>0</ns>
+    <id>1040</id>
+    <revision>
+      <id>913367996</id>
+      <timestamp>2026-03-10T17:31:00Z</timestamp>
+      <contributor><username>WikiBot_3</username><id>570</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Data compression''' is a foundational topic in [[combinatorics]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 217, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:combinatorics]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1041)</title>
+    <ns>0</ns>
+    <id>1041</id>
+    <revision>
+      <id>933795699</id>
+      <timestamp>2026-03-19T12:36:00Z</timestamp>
+      <contributor><username>WikiBot_4</username><id>571</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Kissing number''' is a foundational topic in [[theoretical computer science]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 588, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:theoretical computer science]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1042)</title>
+    <ns>0</ns>
+    <id>1042</id>
+    <revision>
+      <id>927321630</id>
+      <timestamp>2026-04-16T17:27:00Z</timestamp>
+      <contributor><username>WikiBot_5</username><id>572</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Busy beaver''' is a foundational topic in [[information theory]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 131, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:information theory]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1043)</title>
+    <ns>0</ns>
+    <id>1043</id>
+    <revision>
+      <id>934341165</id>
+      <timestamp>2026-08-23T13:20:00Z</timestamp>
+      <contributor><username>WikiBot_6</username><id>573</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Context mixing''' is a foundational topic in [[information theory]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 110, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:information theory]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1044)</title>
+    <ns>0</ns>
+    <id>1044</id>
+    <revision>
+      <id>965820368</id>
+      <timestamp>2026-06-14T13:22:00Z</timestamp>
+      <contributor><username>WikiBot_7</username><id>574</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Strassen algorithm''' is a foundational topic in [[information theory]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 893, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:information theory]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1045)</title>
+    <ns>0</ns>
+    <id>1045</id>
+    <revision>
+      <id>941681527</id>
+      <timestamp>2026-02-25T13:24:00Z</timestamp>
+      <contributor><username>WikiBot_8</username><id>575</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Algorithmic information theory''' is a foundational topic in [[theoretical computer science]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 96, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:theoretical computer science]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1046)</title>
+    <ns>0</ns>
+    <id>1046</id>
+    <revision>
+      <id>937638226</id>
+      <timestamp>2026-08-14T13:28:00Z</timestamp>
+      <contributor><username>WikiBot_9</username><id>576</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Arithmetic coding''' is a foundational topic in [[coding theory]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 391, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:coding theory]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1047)</title>
+    <ns>0</ns>
+    <id>1047</id>
+    <revision>
+      <id>961744209</id>
+      <timestamp>2026-09-21T15:14:00Z</timestamp>
+      <contributor><username>WikiBot_10</username><id>577</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[coding theory]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 610, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:coding theory]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1048)</title>
+    <ns>0</ns>
+    <id>1048</id>
+    <revision>
+      <id>983888932</id>
+      <timestamp>2026-07-18T13:20:00Z</timestamp>
+      <contributor><username>WikiBot_11</username><id>578</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Data compression''' is a foundational topic in [[mathematics]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 801, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:mathematics]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1049)</title>
+    <ns>0</ns>
+    <id>1049</id>
+    <revision>
+      <id>959215547</id>
+      <timestamp>2026-01-15T12:39:00Z</timestamp>
+      <contributor><username>WikiBot_12</username><id>579</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Kissing number''' is a foundational topic in [[mathematics]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 500, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:mathematics]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1050)</title>
+    <ns>0</ns>
+    <id>1050</id>
+    <revision>
+      <id>977880262</id>
+      <timestamp>2026-01-22T16:24:00Z</timestamp>
+      <contributor><username>WikiBot_13</username><id>580</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Busy beaver''' is a foundational topic in [[mathematics]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 907, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:mathematics]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1051)</title>
+    <ns>0</ns>
+    <id>1051</id>
+    <revision>
+      <id>945518133</id>
+      <timestamp>2026-09-27T14:36:00Z</timestamp>
+      <contributor><username>WikiBot_14</username><id>581</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Context mixing''' is a foundational topic in [[theoretical computer science]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 854, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:theoretical computer science]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1052)</title>
+    <ns>0</ns>
+    <id>1052</id>
+    <revision>
+      <id>930108600</id>
+      <timestamp>2026-08-22T16:38:00Z</timestamp>
+      <contributor><username>WikiBot_15</username><id>582</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Strassen algorithm''' is a foundational topic in [[theoretical computer science]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 133, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:theoretical computer science]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1053)</title>
+    <ns>0</ns>
+    <id>1053</id>
+    <revision>
+      <id>946403519</id>
+      <timestamp>2026-03-13T13:23:00Z</timestamp>
+      <contributor><username>WikiBot_16</username><id>583</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Algorithmic information theory''' is a foundational topic in [[coding theory]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 136, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:coding theory]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1054)</title>
+    <ns>0</ns>
+    <id>1054</id>
+    <revision>
+      <id>954233466</id>
+      <timestamp>2026-05-20T10:49:00Z</timestamp>
+      <contributor><username>WikiBot_0</username><id>584</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Arithmetic coding''' is a foundational topic in [[coding theory]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 527, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:coding theory]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1055)</title>
+    <ns>0</ns>
+    <id>1055</id>
+    <revision>
+      <id>985943769</id>
+      <timestamp>2026-03-11T14:46:00Z</timestamp>
+      <contributor><username>WikiBot_1</username><id>585</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[mathematics]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 970, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:mathematics]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1056)</title>
+    <ns>0</ns>
+    <id>1056</id>
+    <revision>
+      <id>907869068</id>
+      <timestamp>2026-03-22T11:32:00Z</timestamp>
+      <contributor><username>WikiBot_2</username><id>586</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Data compression''' is a foundational topic in [[coding theory]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 1001, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:coding theory]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1057)</title>
+    <ns>0</ns>
+    <id>1057</id>
+    <revision>
+      <id>940945283</id>
+      <timestamp>2026-02-15T18:21:00Z</timestamp>
+      <contributor><username>WikiBot_3</username><id>587</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Kissing number''' is a foundational topic in [[combinatorics]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 732, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:combinatorics]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1058)</title>
+    <ns>0</ns>
+    <id>1058</id>
+    <revision>
+      <id>918263278</id>
+      <timestamp>2026-09-14T17:52:00Z</timestamp>
+      <contributor><username>WikiBot_4</username><id>588</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Busy beaver''' is a foundational topic in [[information theory]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 531, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:information theory]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1059)</title>
+    <ns>0</ns>
+    <id>1059</id>
+    <revision>
+      <id>912952893</id>
+      <timestamp>2026-03-17T10:20:00Z</timestamp>
+      <contributor><username>WikiBot_5</username><id>589</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Context mixing''' is a foundational topic in [[coding theory]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 574, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:coding theory]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1060)</title>
+    <ns>0</ns>
+    <id>1060</id>
+    <revision>
+      <id>942424480</id>
+      <timestamp>2026-01-10T17:30:00Z</timestamp>
+      <contributor><username>WikiBot_6</username><id>590</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Strassen algorithm''' is a foundational topic in [[information theory]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 845, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:information theory]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1061)</title>
+    <ns>0</ns>
+    <id>1061</id>
+    <revision>
+      <id>972269831</id>
+      <timestamp>2026-06-11T15:43:00Z</timestamp>
+      <contributor><username>WikiBot_7</username><id>591</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Algorithmic information theory''' is a foundational topic in [[combinatorics]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 432, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:combinatorics]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1062)</title>
+    <ns>0</ns>
+    <id>1062</id>
+    <revision>
+      <id>969382050</id>
+      <timestamp>2026-06-12T15:16:00Z</timestamp>
+      <contributor><username>WikiBot_8</username><id>592</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Arithmetic coding''' is a foundational topic in [[mathematics]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 919, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:mathematics]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1063)</title>
+    <ns>0</ns>
+    <id>1063</id>
+    <revision>
+      <id>915347297</id>
+      <timestamp>2026-06-17T10:47:00Z</timestamp>
+      <contributor><username>WikiBot_9</username><id>593</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[information theory]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 882, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:information theory]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1064)</title>
+    <ns>0</ns>
+    <id>1064</id>
+    <revision>
+      <id>976467572</id>
+      <timestamp>2026-06-18T13:12:00Z</timestamp>
+      <contributor><username>WikiBot_10</username><id>594</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Data compression''' is a foundational topic in [[mathematics]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 177, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:mathematics]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1065)</title>
+    <ns>0</ns>
+    <id>1065</id>
+    <revision>
+      <id>972096843</id>
+      <timestamp>2026-08-25T17:58:00Z</timestamp>
+      <contributor><username>WikiBot_11</username><id>595</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Kissing number''' is a foundational topic in [[combinatorics]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 580, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:combinatorics]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1066)</title>
+    <ns>0</ns>
+    <id>1066</id>
+    <revision>
+      <id>940688150</id>
+      <timestamp>2026-09-14T18:27:00Z</timestamp>
+      <contributor><username>WikiBot_12</username><id>596</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Busy beaver''' is a foundational topic in [[information theory]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 411, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:information theory]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1067)</title>
+    <ns>0</ns>
+    <id>1067</id>
+    <revision>
+      <id>930146117</id>
+      <timestamp>2026-03-25T10:50:00Z</timestamp>
+      <contributor><username>WikiBot_13</username><id>500</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Context mixing''' is a foundational topic in [[information theory]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 358, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:information theory]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1068)</title>
+    <ns>0</ns>
+    <id>1068</id>
+    <revision>
+      <id>908001928</id>
+      <timestamp>2026-05-22T15:43:00Z</timestamp>
+      <contributor><username>WikiBot_14</username><id>501</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Strassen algorithm''' is a foundational topic in [[mathematics]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 853, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:mathematics]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1069)</title>
+    <ns>0</ns>
+    <id>1069</id>
+    <revision>
+      <id>924451151</id>
+      <timestamp>2026-03-13T12:33:00Z</timestamp>
+      <contributor><username>WikiBot_15</username><id>502</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in mathematics}}
+'''Algorithmic information theory''' is a foundational topic in [[mathematics]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 472, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov complexity]] and [[Algorithmic information theory]].
+[[Category:mathematics]] [[Category:Ray Solomonoff]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Arithmetic coding (1070)</title>
+    <ns>0</ns>
+    <id>1070</id>
+    <revision>
+      <id>928337482</id>
+      <timestamp>2026-06-20T18:14:00Z</timestamp>
+      <contributor><username>WikiBot_16</username><id>503</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Arithmetic coding''' is a foundational topic in [[combinatorics]], introduced around 2009 by [[Jarek Duda]].
+In formal analysis, [[Asymmetric numeral systems]] compresses exact descriptions alongside [[Entropy encoding]].
+== Formal properties ==
+Given a binary string x of length 223, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Entropy encoding]] and [[Arithmetic coding]].
+[[Category:combinatorics]] [[Category:Jarek Duda]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Burrows-Wheeler transform (1071)</title>
+    <ns>0</ns>
+    <id>1071</id>
+    <revision>
+      <id>938557545</id>
+      <timestamp>2026-09-15T11:49:00Z</timestamp>
+      <contributor><username>WikiBot_0</username><id>504</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in information theory}}
+'''Burrows-Wheeler transform''' is a foundational topic in [[information theory]], introduced around 1994 by [[Michael Burrows]].
+In formal analysis, [[Suffix array]] bounds exact descriptions alongside [[Move-to-front transform]].
+== Formal properties ==
+Given a binary string x of length 666, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Move-to-front transform]] and [[Burrows-Wheeler transform]].
+[[Category:information theory]] [[Category:Michael Burrows]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Data compression (1072)</title>
+    <ns>0</ns>
+    <id>1072</id>
+    <revision>
+      <id>927085916</id>
+      <timestamp>2026-05-10T14:13:00Z</timestamp>
+      <contributor><username>WikiBot_1</username><id>505</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in theoretical computer science}}
+'''Data compression''' is a foundational topic in [[theoretical computer science]], introduced around 1948 by [[Claude Shannon]].
+In formal analysis, [[Shannon entropy]] proves exact descriptions alongside [[Huffman coding]].
+== Formal properties ==
+Given a binary string x of length 761, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Huffman coding]] and [[Data compression]].
+[[Category:theoretical computer science]] [[Category:Claude Shannon]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Kissing number (1073)</title>
+    <ns>0</ns>
+    <id>1073</id>
+    <revision>
+      <id>955392147</id>
+      <timestamp>2026-04-21T11:22:00Z</timestamp>
+      <contributor><username>WikiBot_2</username><id>506</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Kissing number''' is a foundational topic in [[combinatorics]], introduced around 1978 by [[Gregory Kabatiansky]].
+In formal analysis, [[Sphere packing]] minimizes exact descriptions alongside [[Leech lattice]].
+== Formal properties ==
+Given a binary string x of length 1004, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Leech lattice]] and [[Kissing number]].
+[[Category:combinatorics]] [[Category:Gregory Kabatiansky]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Busy beaver (1074)</title>
+    <ns>0</ns>
+    <id>1074</id>
+    <revision>
+      <id>957564862</id>
+      <timestamp>2026-02-16T17:55:00Z</timestamp>
+      <contributor><username>WikiBot_3</username><id>507</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Busy beaver''' is a foundational topic in [[coding theory]], introduced around 1962 by [[Tibor Rado]].
+In formal analysis, [[Turing machine]] generalizes exact descriptions alongside [[Halting problem]].
+== Formal properties ==
+Given a binary string x of length 739, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Halting problem]] and [[Busy beaver]].
+[[Category:coding theory]] [[Category:Tibor Rado]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Context mixing (1075)</title>
+    <ns>0</ns>
+    <id>1075</id>
+    <revision>
+      <id>903714765</id>
+      <timestamp>2026-08-13T13:33:00Z</timestamp>
+      <contributor><username>WikiBot_4</username><id>508</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Context mixing''' is a foundational topic in [[combinatorics]], introduced around 2006 by [[Matt Mahoney]].
+In formal analysis, [[PAQ8]] relates exact descriptions alongside [[Hutter Prize]].
+== Formal properties ==
+Given a binary string x of length 718, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Hutter Prize]] and [[Context mixing]].
+[[Category:combinatorics]] [[Category:Matt Mahoney]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strassen algorithm (1076)</title>
+    <ns>0</ns>
+    <id>1076</id>
+    <revision>
+      <id>947450480</id>
+      <timestamp>2026-01-26T15:36:00Z</timestamp>
+      <contributor><username>WikiBot_5</username><id>509</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in coding theory}}
+'''Strassen algorithm''' is a foundational topic in [[coding theory]], introduced around 1969 by [[Volker Strassen]].
+In formal analysis, [[Matrix multiplication]] transforms exact descriptions alongside [[Bilinear complexity]].
+== Formal properties ==
+Given a binary string x of length 413, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Bilinear complexity]] and [[Strassen algorithm]].
+[[Category:coding theory]] [[Category:Volker Strassen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algorithmic information theory (1077)</title>
+    <ns>0</ns>
+    <id>1077</id>
+    <revision>
+      <id>967639319</id>
+      <timestamp>2026-06-21T18:33:00Z</timestamp>
+      <contributor><username>WikiBot_6</username><id>510</id></contributor>
+      <text bytes="420" xml:space="preserve">{{Short description|Concept in combinatorics}}
+'''Algorithmic information theory''' is a foundational topic in [[combinatorics]], introduced around 1960 by [[Ray Solomonoff]].
+In formal analysis, [[Solomonoff induction]] computes exact descriptions alongside [[Kolmogorov complexity]].
+== Formal properties ==
+Given a binary string x of length 640, its prefix complexity K(x) satisfies K(x) <= |x| + 2*log2(|x|) + O(1). See also [[Kolmogorov c
