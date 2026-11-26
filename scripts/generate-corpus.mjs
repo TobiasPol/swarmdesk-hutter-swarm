@@ -216,7 +216,7 @@ export function generateAll() {
       sota_value: spec.sota_value,
       metric_unit: "bytes",
       domain: spec.domain,
-      source_url: "http://prize.hutter1.net/",
+      source_url: "https://prize.hutter1.net/",
       approach: "Use BWT, MTF, RLE0, LZ77, dict, or canonical Huffman in swarmcomp-v1 pipeline stages to minimize encoded_bytes.",
     });
   }

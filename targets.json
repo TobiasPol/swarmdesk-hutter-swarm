@@ -17,7 +17,7 @@
       "sota_value": 14500,
       "metric_unit": "bytes",
       "domain": "Lossless compression",
-      "source_url": "http://prize.hutter1.net/",
+      "source_url": "https://prize.hutter1.net/",
       "approach": "Use BWT, MTF, RLE0, LZ77, dict, or canonical Huffman in swarmcomp-v1 pipeline stages to minimize encoded_bytes."
     },
     {
@@ -34,7 +34,7 @@
       "sota_value": 5500,
       "metric_unit": "bytes",
       "domain": "Structured markup compression",
-      "source_url": "http://prize.hutter1.net/",
+      "source_url": "https://prize.hutter1.net/",
       "approach": "Use BWT, MTF, RLE0, LZ77, dict, or canonical Huffman in swarmcomp-v1 pipeline stages to minimize encoded_bytes."
     },
     {
@@ -51,7 +51,7 @@
       "sota_value": 7200,
       "metric_unit": "bytes",
       "domain": "Symbolic text compression",
-      "source_url": "http://prize.hutter1.net/",
+      "source_url": "https://prize.hutter1.net/",
       "approach": "Use BWT, MTF, RLE0, LZ77, dict, or canonical Huffman in swarmcomp-v1 pipeline stages to minimize encoded_bytes."
     },
     {
@@ -68,7 +68,7 @@
       "sota_value": 16000,
       "metric_unit": "bytes",
       "domain": "Mixed entropy coding",
-      "source_url": "http://prize.hutter1.net/",
+      "source_url": "https://prize.hutter1.net/",
       "approach": "Use BWT, MTF, RLE0, LZ77, dict, or canonical Huffman in swarmcomp-v1 pipeline stages to minimize encoded_bytes."
     }
   ]
